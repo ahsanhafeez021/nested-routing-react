@@ -1,0 +1,25 @@
+.dashboard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 10px;
+    background: aliceblue;
+    height: 71px;
+}
+
+
+ .link{
+     margin: 10px;
+     background-color: antiquewhite;
+     text-decoration: none;
+     padding: 12px;
+     border: 1px solid black;
+     border-radius: 5px;
+}
+h3{
+     font-size: 40px;
+     text-align: center;
+}
+.com1Main{
+     text-align: center;
+}
